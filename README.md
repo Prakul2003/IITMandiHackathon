@@ -10,6 +10,8 @@ Accuracy : 99.32%
 
 final result : evalauation1 folder
 
+embedding visualisation : tsne_visualisation.png
+
 preprocessing code : chunking.py
 
 stratified split code : split.py
@@ -19,3 +21,4 @@ csv generation code : generate_csv.py
 training code : train.py
 
 testing code : test.py
+
